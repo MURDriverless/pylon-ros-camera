@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <launch>
-    <arg name="respawn" default="false" />
+    <arg name="respawn" default="true" />
     <arg name="debug" default="false" />
     <arg name="node_name" default="CameraLeft" />
     <arg name="mtu_size" default="1500" />
