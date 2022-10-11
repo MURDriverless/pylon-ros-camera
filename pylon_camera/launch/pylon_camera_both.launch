@@ -1,0 +1,4 @@
+<launch>
+   <include file="$(find pylon_camera)/launch/right.launch"/>
+   <include file="$(find pylon_camera)/launch/left.launch"/>
+</launch>
